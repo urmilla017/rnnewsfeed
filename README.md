@@ -16,9 +16,9 @@ App loads RSS from three different sources:
 + The screen has a header with number of articles in that page.
 
 Environment:
-OS: macOS Catalina (10.15.1)
-Xcode: 11.2
-react-native: 0.61.5
++ OS: macOS Catalina (10.15.1)
++ Xcode: 11.2
++ react-native: 0.61.5
 
 Others:
 I tried to convert the whole app to use Redux but I ran out of time before I could check it out.
