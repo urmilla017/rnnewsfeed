@@ -19,7 +19,3 @@ Environment:
 + OS: macOS Catalina (10.15.1)
 + Xcode: 11.2
 + react-native: 0.61.5
-
-Others:
-I tried to convert the whole app to use Redux but I ran out of time before I could check it out.
-That code is also in there
